@@ -40,5 +40,5 @@ Last-Modified/ETag
 
 ## 参考
 
-[浏览器缓存机制](https://www.cnblogs.com/slly/p/6732749.html)
-[缓存过程](https://www.cnblogs.com/shixiaomiao1122/p/7591556.html)
+- [浏览器缓存机制](https://www.cnblogs.com/slly/p/6732749.html)
+- [缓存过程](https://www.cnblogs.com/shixiaomiao1122/p/7591556.html)
