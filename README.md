@@ -67,6 +67,6 @@ Last-Modified/ETag
 　　　　5. HTTP响应头中不包含Last-Modified/Etag，也不包含Cache-Control/Expires的请求无法被缓存
 
 ## 参考
-
+- [http缓存](http://www.cnblogs.com/vajoy/p/5341664.html)
 - [浏览器缓存机制](https://www.cnblogs.com/slly/p/6732749.html)
 - [缓存过程](https://www.cnblogs.com/shixiaomiao1122/p/7591556.html)
