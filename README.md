@@ -65,6 +65,16 @@ Last-Modified/ETag
 　　　　4. POST请求无法被缓存
 
 　　　　5. HTTP响应头中不包含Last-Modified/Etag，也不包含Cache-Control/Expires的请求无法被缓存
+    
+## Usage
+
+启动服务
+```
+node etag/expires/last_modified
+```
+浏览器访问
+http://localhost:9090
+
 
 ## 参考
 - [http缓存](http://www.cnblogs.com/vajoy/p/5341664.html)
